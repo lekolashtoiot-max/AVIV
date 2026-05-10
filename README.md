@@ -119,7 +119,7 @@ I'm a **Computer Science Graduate** <img src="https://media.giphy.com/media/WUl
 
 ## 🚀 About Me
 
-```js
+js
 const Aviv = {
   location: "Israel",
   education: "Computer Science Graduate",
