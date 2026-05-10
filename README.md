@@ -97,9 +97,6 @@ I'm a **Computer Science Graduate** <img src="https://media.giphy.com/media/WUl
 
 <h1 align="center">HERE!!!!!!!!!!!!</h1>
 
-
-
-
 <h1 align="center">Hey there 👋 I'm Aviv</h1>
 
 <h3 align="center">
@@ -135,10 +132,6 @@ I'm a **Computer Science Graduate** <img src="https://media.giphy.com/media/WUl
   </a>
 
 </p>
-
-
-
-⸻
 
 
 
@@ -206,10 +199,6 @@ const Aviv = {
 
 
 
-⸻
-
-
-
 🛠️ Tech Stack
 
 👨‍💻 Languages & Frameworks
@@ -219,10 +208,6 @@ const Aviv = {
   <img src="https://skillicons.dev/icons?i=python,javascript,react,redux,html,css,git,github,vscode" />
 
 </p>
-
-
-
-⸻
 
 
 
@@ -237,10 +222,6 @@ const Aviv = {
   <img src="https://img.shields.io/badge/Device-DELL-007DB8?style=for-the-badge&logo=dell&logoColor=white"/>
 
 </p>
-
-
-
-⸻
 
 
 
@@ -262,10 +243,6 @@ const Aviv = {
 
 
 
-⸻
-
-
-
 🎯 2026 Goals
 
 🚀 Build impressive real-world projects
@@ -275,10 +252,6 @@ const Aviv = {
 💻 Become a stronger full-stack developer
 
 
-⸻
-
-
-
 ☕ Fun Facts
 
 ☕ Probably drinking coffee while coding
@@ -286,10 +259,6 @@ const Aviv = {
 🎨 Love aesthetic and clean UI design
 🏋️ Into fitness and self-improvement
 🌙 Most productive at night
-
-
-⸻
-
 
 
 📬 Connect With Me
@@ -318,10 +287,6 @@ const Aviv = {
 
 
 
-⸻
-
-
-
 <p align="center">
 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
@@ -333,4 +298,5 @@ const Aviv = {
   ⭐ Thanks for visiting my profile ⭐
 
 </h3>
+
 
