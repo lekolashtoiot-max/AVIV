@@ -24,8 +24,7 @@ I'm a **Computer Science Graduate** <img src="https://media4.giphy.com/media/v1
 
 - Programming
 - Working out
-- Drinking Coffee
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN2eW9naXd1bGlnc3l3YWR6aWZvZ3M4YmJsMGNkeDJpODh3a3c0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gyzM670eRINOtPhktp/giphy.gif" width="70">
+- Drinking Coffee<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN2eW9naXd1bGlnc3l3YWR6aWZvZ3M4YmJsMGNkeDJpODh3a3c0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gyzM670eRINOtPhktp/giphy.gif" width="70">
 - Music
 - Design
 
