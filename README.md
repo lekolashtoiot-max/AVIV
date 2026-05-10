@@ -1,6 +1,4 @@
 
-
-
 <h1 align="center">Hey there 👋 I'm Aviv</h1>
 
 <h3 align="center">
@@ -131,10 +129,4 @@ const Aviv = {
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
 </p>
-
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
-
-
-
-
-
