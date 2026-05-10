@@ -93,6 +93,49 @@ I'm a **Computer Science Graduate** <img src="https://media.giphy.com/media/WUl
 
 
 
+<h1 align="center">
+  Hey there 👋 I'm Aviv
+</h1>
+
+<h3 align="center">
+  Computer Science Graduate • Developer • Tech Enthusiast
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aviv-musai">
+    <img src="https://img.shields.io/badge/LinkedIn-Aviv_Musai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:aviv.musai1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/lekolashtoiot-max">
+    <img src="https://img.shields.io/badge/GitHub-lekolashtoiot--max-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+```js
+const Aviv = {
+  location: "Israel",
+  education: "Computer Science Graduate",
+  interests: [
+    "Software Development",
+    "Artificial Intelligence",
+    "Frontend Development",
+    "UI/UX Design",
+    "Building Products"
+  ],
+  currentlyLearning: ["Python", "React", "Backend Development"],
+  hobbies: ["Gym", "Coffee", "Music", "Design", "YouTube"]
+};
+
+
+
   
 
 
