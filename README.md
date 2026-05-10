@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hey there 👋 I'm Aviv</h1>
 
 <h3 align="center">
@@ -39,7 +37,7 @@
 
 
 🚀 About Me
-
+```javascript
 const Aviv = {
 
   location: "Israel",
@@ -95,6 +93,8 @@ const Aviv = {
   ]
 
 };
+
+```
 
 💡 I love building modern and meaningful products using new technologies.
 🎯 My goal is to continuously improve as a developer and create projects that people genuinely enjoy using.
