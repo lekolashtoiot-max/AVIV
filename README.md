@@ -1,7 +1,7 @@
 
-# Hello, I am <a href="https://www.linkedin.com/in/aviv-musai">Aviv</a>! <img src="https://raw.githubusercontent.com/liordesta/liordesta/master/wave.gif" width="700px">
+# Hello, I am <a href="https://www.linkedin.com/in/aviv-musai">Aviv</a>! <img src="https://raw.githubusercontent.com/liordesta/liordesta/master/wave.gif" width="30px">
 
-I'm a **Computer Science Graduate** <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczQ4aWw2Z2xyMzN3bDhlaXo4ajFxZzBrOGM2NG1vOXNxM3g4Nm52NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="30"> I'm Passionate about learning and working with new tech! I love building interesting and amazing products that serve a great deal of purpose. <br/>
+I'm a **Computer Science Graduate** <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczQ4aWw2Z2xyMzN3bDhlaXo4ajFxZzBrOGM2NG1vOXNxM3g4Nm52NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="70"> I'm Passionate about learning and working with new tech! I love building interesting and amazing products that serve a great deal of purpose. <br/>
 
 #### Find me at 📬
 
@@ -24,7 +24,11 @@ I'm a **Computer Science Graduate** <img src="https://media4.giphy.com/media/v1
 
 - Programming
 - Working out
-- Drinking Coffee
+- Drinking Coffee <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN2eW9naXd1bGlnc3l3YWR6aWZvZ3M4YmJsMGNkeDJpODh3a3c0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gyzM670eRINOtPhktp/giphy.gif" width="70">
 - Music
 - Design
 - Youtube
+
+
+
+
