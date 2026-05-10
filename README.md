@@ -1,10 +1,7 @@
 
-# Hello, I am <a href="https://www.linkedin.com/in/aviv-musai">Aviv</a>! 
-<img src="https://raw.githubusercontent.com/liordesta/liordesta/master/wave.gif" width="30px">
-<img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/ba963c30-6dfb-4846-9cdc-98c826f28c9c" />
+# Hello, I am <a href="https://www.linkedin.com/in/aviv-musai">Aviv</a>! <img src="https://raw.githubusercontent.com/liordesta/liordesta/master/wave.gif" width="30px">
 
-
-I'm a **Computer Science Graduate** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm Passionate about learning and working with new tech! I love building interesting and amazing products that serve a great deal of purpose. <br/>
+I'm a **Computer Science Graduate** <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FlN2VlZHd6bWs3MXV5YmxtemlvNTNvcjdwbDY5dHBhNDBqOGFyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="30"> I'm Passionate about learning and working with new tech! I love building interesting and amazing products that serve a great deal of purpose. <br/>
 
 #### Find me at 📬
 
