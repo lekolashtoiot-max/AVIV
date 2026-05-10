@@ -5,15 +5,9 @@ I'm a **Computer Science Graduate** <img src="https://media.giphy.com/media/WUl
 
 #### Find me at 📬
 
-<a href="https://github.com/lekolashtoiot-max">
-  <img src="http://img.shields.io/badge/-Github-black?style=flat-square&logo=github">
-</a>
-<a href="https://www.linkedin.com/in/aviv-musai">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
-</a>
-<a href="mailto:aviv.musai1@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">
-</a>
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/lekolashtoiot-max)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aviv-musai)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:aviv.musai1@gmail.com)
 
 
 ## 🔧 Technologies & Tools
