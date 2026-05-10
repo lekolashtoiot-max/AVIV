@@ -1,5 +1,8 @@
 
-# Hello, I am <a href="https://linkedin.com/in/liordesta">Aviv</a>! <img src="https://raw.githubusercontent.com/liordesta/liordesta/master/wave.gif" width="30px">
+# Hello, I am <a href="https://www.linkedin.com/in/aviv-musai">Aviv</a>! 
+<img src="https://raw.githubusercontent.com/liordesta/liordesta/master/wave.gif" width="30px">
+<img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/ba963c30-6dfb-4846-9cdc-98c826f28c9c" />
+
 
 I'm a **Computer Science Graduate** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm Passionate about learning and working with new tech! I love building interesting and amazing products that serve a great deal of purpose. <br/>
 
@@ -24,7 +27,7 @@ I'm a **Computer Science Graduate** <img src="https://media.giphy.com/media/WUl
 
 - Programming
 - Working out
-- Hanging out
+- Drinking Coffee
 - Music
-- Anime
+- Design
 - Youtube
