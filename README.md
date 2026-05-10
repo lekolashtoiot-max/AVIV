@@ -56,6 +56,7 @@ const Aviv = {
     "YouTube"
   ]
 };
+```
 
 
 💡 I love building modern and meaningful products using new technologies.  
@@ -136,14 +137,4 @@ const Aviv = {
 
 ---
 
-# ⭐ Your README will now work perfectly.
 
-If you want, I can also:
-
-- Add a **banner**  
-- Add **dark/light mode** support  
-- Add **animated icons**  
-- Add a **Projects** section  
-- Add a **profile avatar**  
-
-Just tell me what vibe you want and I’ll upgrade it again.
