@@ -1,7 +1,6 @@
 
 
 
-```md
 <h1 align="center">Hey there 👋 I'm Aviv</h1>
 
 <h3 align="center">
@@ -57,7 +56,7 @@ const Aviv = {
     "YouTube"
   ]
 };
-```
+
 
 💡 I love building modern and meaningful products using new technologies.  
 🎯 My goal is to continuously improve as a developer and create projects people enjoy.  
