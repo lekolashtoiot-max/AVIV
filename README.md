@@ -129,4 +129,5 @@ const Aviv = {
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
 </p>
+```md
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
