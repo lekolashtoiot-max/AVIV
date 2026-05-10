@@ -29,7 +29,7 @@ I'm a **Computer Science Graduate** <img src="https://media.giphy.com/media/WUl
 - Design
 - Youtube
 
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN2eW9naXd1bGlnc3l3YWR6aWZvZ3M4YmJsMGNkeDJpODh3a3c0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gyzM670eRINOtPhktp/giphy.gif" width="40" style="vertical-align:-10px;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN2eW9naXd1bGlnc3l3YWR6aWZvZ3M4YmJsMGNkeDJpODh3a3c0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gyzM670eRINOtPhktp/giphy.gif" width="70" style="vertical-align:-10px;">
 
 
 
